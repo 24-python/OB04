@@ -6,8 +6,6 @@ class Fighter():
     def change_weapon(self, weapon):
         self.weapon = weapon
 
-
-
 class Monster():
     def __init__(self, name):
         self.name = name
